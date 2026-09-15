@@ -55,14 +55,13 @@ em Ciência da Computação.
 
 ## 🤓 Atualmente estudando
 
-```text
-Java
-Back-end
-HTML
-SharePoint
-Banco de Dados
-Desenvolvimento Web
-Git & GitHub
+- Java
+- Back-end
+- HTML
+- SharePoint
+- Banco de Dados
+- Desenvolvimento Web
+- Git & GitHub
 
 
 ## 🎮 My Contribution Game
