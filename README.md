@@ -5,8 +5,6 @@
   <img src="https://i.pinimg.com/originals/de/87/60/de8760fb3c4a3319d90e60c893e9a062.gif" width="100%">
 </p>
 
-# Oi, eu sou a Ju! 
-
 Estudante de Ciência da Computação | Administradora 
 
 Atualmente, estou cursando **Ciência da Computação no CEUB** e sou formada em **Administração pela UCB**.
