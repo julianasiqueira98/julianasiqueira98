@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasiqueiranogueira/)
 
+![gif fofinho](https://i.pinimg.com/originals/de/87/60/de8760fb3c4a3319d90e60c893e9a062.gif)
+
 # Oi, eu sou a Ju! 
 
 Estudante de Ciência da Computação | Administradora 
