@@ -63,3 +63,12 @@ SharePoint
 Banco de Dados
 Desenvolvimento Web
 Git & GitHub
+
+
+## 🎮 My Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianasiquiera98/julianasiquiera98/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianasiquiera98/julianasiquiera98/output/galaga-contribution-graph.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/julianasiquiera98/julianasiquiera98/output/galaga-contribution-graph.svg">
+</picture>
