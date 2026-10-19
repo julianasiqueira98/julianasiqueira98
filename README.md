@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasiqueiranogueira/)
 
-# Oi, eu sou a Ju! 
+# Olá! Eu me chamo Juliana, mas pode me chamar de Ju. 
 <p align="center">
   <img src="https://i.pinimg.com/736x/91/13/50/91135036a287ae2c5f15585d179c0026.jpg" width="100%">
 </p>
