@@ -2,7 +2,7 @@
 
 # Oi, eu sou a Ju! 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/de/87/60/de8760fb3c4a3319d90e60c893e9a062.gif" width="100%">
+  <img src="https://i.pinimg.com/736x/91/13/50/91135036a287ae2c5f15585d179c0026.jpg" width="100%">
 </p>
 
 Estudante de Ciência da Computação | Administradora 
