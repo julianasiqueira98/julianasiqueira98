@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianasiqueiranogueira/)
 
-# Olá! Eu me chamo Juliana, mas pode me chamar de Ju. 
+# Olá! Eu me chamo Juliana, mas pode me chamar de Julie. 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/91/13/50/91135036a287ae2c5f15585d179c0026.jpg" width="100%">
+  <img src="https://i.pinimg.com/1200x/bc/d0/af/bcd0af5f67c485d4158e6cc35286fdee.jpg">
 </p>
 
 Estudante de Ciência da Computação | Administradora 
